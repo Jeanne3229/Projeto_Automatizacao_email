@@ -44,3 +44,20 @@ Este projeto foi criado para automatizar o envio de e-mails utilizando Python. O
 4. Execute o arquivo no terminal com o comando:
    ```bash
    python Inicio.py
+
+## Licença
+
+MIT License
+
+## 👩‍💻 Desenvolvedora
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Jeanne3229">
+        <img src="https://github.com/Jeanne3229.png" width="120px;" alt="Jeanne"/><br>
+        <sub><b>Jeanne Espíndola</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
