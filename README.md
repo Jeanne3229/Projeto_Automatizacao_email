@@ -55,7 +55,7 @@ MIT License
   <tr>
     <td align="center">
       <a href="https://github.com/Jeanne3229">
-        <img src="https://github.com/Jeanne3229.png" width="120px;" alt="Jeanne"/><br>
+        <img src="https://github.com/Jeanne-Espindola.png" width="120px;" alt="Jeanne"/><br>
         <sub><b>Jeanne Espíndola</b></sub>
       </a>
     </td>
